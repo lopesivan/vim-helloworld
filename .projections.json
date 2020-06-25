@@ -1,0 +1,15 @@
+{
+  "./.projections.json": { "type": "dit" },
+
+  "README.md": {
+    "type": "doc"
+  },
+
+  "plugin/*.vim": {
+    "type": "p"
+  },
+
+  "autoload/*.vim": {
+    "type": "a"
+  }
+}
